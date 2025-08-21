@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Application_1.. version1");
+	printf("Application_1.. version2");
 	return 0;
 }
